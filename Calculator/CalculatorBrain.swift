@@ -6,7 +6,7 @@
 //  Copyright © 2018 r2dcruz. All rights reserved.
 //
 
-import Foundation
+import Foundation //Calculator exercise
 
 struct CalculatorBrain {
     
